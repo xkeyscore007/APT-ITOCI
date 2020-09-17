@@ -1,7 +1,6 @@
 
 # Applied Purple Teaming 
-### Defensive Origins Course: June 30th - July 2, 2020
-A Defensive Origins Curriculum and Training Project
+
 
 ![](../docs/images/APT-June2020.jpg)
 
