@@ -62,9 +62,10 @@ Initiate a Command and Control framework.  Create malware and launch the Command
 The lab environment provided by either Defense Origins or the APT-Lab-Terraform build may not have fully executed the Sysmon installation as previously discussed.  Complete the following process to finalize the lab environment:
 
 * Login to the workstation (Member Server) at WS01 using the specified domain context passwords.
-* Open a command prompt window
-* cd \\\\dc01\labs\sysmon\
-* ./sysmon64.exe -accepteula -i sysmonconfig.xml<br />
+* Open a PowerShell window and run the following commands. 
+```cd \\\\dc01\labs\sysmon\
+./sysmon64.exe -accepteula -i sysmonconfig.xml<br />
+```
 This will complete the installation of Sysmon on the workstation (Member Server)
 
 ![][Div1]
