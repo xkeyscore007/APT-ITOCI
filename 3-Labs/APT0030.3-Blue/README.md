@@ -1,4 +1,4 @@
-# L1130-Blue: Silent Trinity Hunt!
+# APT0030.3-Blue: Silent Trinity Hunt!
 
 ![](images/logo.png)
 

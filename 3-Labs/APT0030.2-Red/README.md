@@ -1,4 +1,4 @@
-# L1130-Red -Attack Silent Trinity Attack
+# APT0030.2-Red -Attack Silent Trinity Attack
 ![](images/logo.png)
 
 ![Lab Contents][LabContents]
@@ -55,8 +55,19 @@ In this lab, the student will stand up a C2 framework, create a listener for two
 
 Initiate a Command and Control framework.  Create malware and launch the Command and Control malware session on the Windows 10 workstation.  Hunt for Indicators of Compromise.
 
-![][Div1]
 
+
+![][Div1]
+## Sysmon Install
+The lab environment provided by either Defense Origins or the APT-Lab-Terraform build may not have fully executed the Sysmon installation as previously discussed.  Complete the following process to finalize the lab environment:
+
+* Login to the workstation (Member Server) at WS01 using the specified domain context passwords.
+* Open a command prompt window
+* cd \\dc01\labs\sysmon\
+* ./sysmon64.exe -accepteula -i sysmonconfig.xml
+This will complete the installation of Sysmon on the workstation (Member Server)
+
+![][Div1]
 
 ![Attack Step One][AttackStepOne] 
 ## Linux - SSH Session 1 (Team Server)

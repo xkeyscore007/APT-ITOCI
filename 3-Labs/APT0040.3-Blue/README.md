@@ -1,4 +1,4 @@
-# L1150-Blue Pass The Hash - CrackMacExec
+# APT0040.3-Blue Pass The Hash - CrackMacExec
 ![](images/logo.png)
 
 ![Lab Contents][LabContents]

@@ -1,4 +1,4 @@
-# L1150-Red Pass-The-Hash - Crack Map Exec
+# APT0040.2-Red Pass-The-Hash - Crack Map Exec
 ![](images/logo.png)
 
 ![Lab Contents][LabContents]
