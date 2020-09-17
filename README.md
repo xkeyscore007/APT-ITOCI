@@ -153,8 +153,8 @@ Copyright - All Rights Reserved, Defensive Origins LLC
   [APT0020.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/1-Curriculum/APT0020.1-CUR%20-%20Optics.pdf
   [APT0020.2]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/2-LifeCycles/APT0020.2-DEM%20-%20Optics%20Lab%20Builder%20Demos.pdf
   [APT0020.9]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/1-Curriculum/APT0020.9-LabOverview.pdf
-  [APT0011.9-doc]:4-Playbooks/PB0170
-  [APT0011.9-pdf]:4-Playbooks/PB0170
+  [APT0011.9-doc]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/4-Playbooks/PB0170.docx
+  [APT0011.9-pdf]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/4-Playbooks/PB0170.pdf
   [APT0030.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/2-LifeCycles/APT0030.1-CUR%20-%20C2%20with%20ST%20Lifecycle.pdf
   [APT0030.2-Red]:3-Labs/APT0030.2-Red
   [APT0030.3-Blue]:3-Labs/APT0030.3-Blue
