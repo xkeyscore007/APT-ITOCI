@@ -63,8 +63,9 @@ The lab environment provided by either Defense Origins or the APT-Lab-Terraform 
 
 * Login to the workstation (Member Server) at WS01 using the specified domain context passwords.
 * Open a PowerShell window and run the following commands. 
-```cd \\\\dc01\labs\sysmon\
-./sysmon64.exe -accepteula -i sysmonconfig.xml<br />
+```
+cd \\dc01\labs\sysmon\
+./sysmon64.exe -accepteula -i sysmonconfig.xml
 ```
 This will complete the installation of Sysmon on the workstation (Member Server)
 
