@@ -147,22 +147,22 @@ Copyright - All Rights Reserved, Defensive Origins LLC
   [WV]: https://register.gotowebinar.com/register/103098315143089935
   [WWHF]: https://wildwesthackinfest.com/wwhf-at-secure-wv/#jdki
   [APTTF]: https://github.com/DefensiveOrigins/APT-Lab-Terraform
-  [APT0010.1]:1-Curriculum/APT0010.1
-  [APT0011.1]:1-Curriculum/APT0011.1
-  [APT0011.9]:1-Curriculum/APT0011.9
-  [APT0020.1]:2-LifeCycles/APT0020.1
-  [APT0020.2]:3-Labs/APT0020.2
-  [APT0020.9]:3-Labs/APT0020.9
+  [APT0010.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/1-Curriculum/APT0010.1-IDEN%20-%20Contributor%20Intros.pdf
+  [APT0011.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/1-Curriculum/APT0011.1-CUR%20-%20Lifecycle%20Intro.pdf
+  [APT0011.9]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/4-Playbooks/APT0011.9-PBT%20-%20Playbook%20Lifecycle%20Template.pdf
+  [APT0020.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/1-Curriculum/APT0020.1-CUR%20-%20Optics.pdf
+  [APT0020.2]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/2-LifeCycles/APT0020.2-DEM%20-%20Optics%20Lab%20Builder%20Demos.pdf
+  [APT0020.9]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/1-Curriculum/APT0020.9-LabOverview.pdf
   [APT0011.9-doc]:4-Playbooks/PB0170
   [APT0011.9-pdf]:4-Playbooks/PB0170
-  [APT0030.1]:2-LifeCycles/APT0030.1
+  [APT0030.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/2-LifeCycles/APT0030.1-CUR%20-%20C2%20with%20ST%20Lifecycle.pdf
   [APT0030.2-Red]:3-Labs/APT0030.2-Red
   [APT0030.3-Blue]:3-Labs/APT0030.3-Blue
-  [APT0030.4-PB]:4-Playbooks/APT0030.4-PB
-  [APT0040.1]:2-LifeCycles/APT0040.1
+  [APT0030.4-PB]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/4-Playbooks/APT0030.9-PB%20-%20Lifecycle%20Report%20-%20C2%20with%20ST.pdf
+  [APT0040.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/2-LifeCycles/APT0040.1-CUR%20-%20Pass%20the%20Hash%20Lifecycle.pdf
   [APT0040.2-Red]:3-Labs/APT0040.2-Red
   [APT0040.3-Blue]:3-Labs/APT0040.3-Blue
-  [APT0040.4-PB]:4-Playbooks/APT0040.4-PB
-  [APT0099.1]:1-Curriculum/APT0099.1
+  [APT0040.4-PB]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/4-Playbooks/APT0040.9-PB%20-%20Lifecycle%20Report%20-%20PassTheHash.pdf
+  [APT0099.1]:https://github.com/AppliedPurpleTeaming/APT-ITOCI/blob/master/1-Curriculum/APT0099.1-FIN%20Course%20Summary.pdf
   [BC0108]:5-BookParts/BC0108
 
