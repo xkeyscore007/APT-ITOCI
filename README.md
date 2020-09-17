@@ -56,6 +56,17 @@
 
 ![][Div2]
 
+## Workshop Lab Enviromment Credentials
+
+| Context                                  | Useranme                                 | Password  |
+|------------------------------------------|------------------------------------------|-----------|
+| Domain User (Admin)                      | LABS\itadmin                             | APTClass! |
+| WS01 Local Admin <br>DO NOT USE THIS: all labs use domain context! | WS01\itadmin <br>DO NOT USE THIS: all labs use domain context! | APTClass! |
+| HELK (Hunting Elk) <br>https://10.10.98.20 | helk                                     | hunting   |
+
+
+![][Div2]
+
 ## Course Content
 The below links provide direct access to the course content.  
 * Presentation slides are provided in PDF format.  
